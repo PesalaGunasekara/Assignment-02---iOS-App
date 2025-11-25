@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-Custom-lightgrey)](#license)
 
 <p align="center">
-  <img src="docs/images/icon.png" alt="Leafy App Icon" width="120" />
+  <img src="docs/images/icon.svg" alt="Leafy App Icon" width="120" />
 </p>
 
 Leafy is a SwiftUI iOS app that helps you identify plants using on-device machine learning and organize them in a simple garden list. It uses a Core ML image classification model (MobileNetV2) to predict the plant class from a photo you select or capture.
